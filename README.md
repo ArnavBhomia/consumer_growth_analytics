@@ -4,10 +4,6 @@ This repository contains an end-to-end data analytics project focused on analyzi
 
 This project demonstrates a full analytical workflow, from initial data engineering in Python to advanced database querying in SQL, culminating in an interactive Power BI dashboard.
 
-## **📊 Power BI Dashboard Preview**
-
-The final interactive dashboard provides a high-level overview of key performance indicators (KPIs) and allows for deep-dive analysis using interactive slicers for Subscription Status, Gender, Category, and Shipping Type.
-
 ## **🎯 Business Problem & Objectives**
 
 The primary business challenge was to understand shifting consumer purchasing patterns to maintain a competitive edge. The project aimed to move from *what* was happening to *why* it was happening by identifying the causal factors (like discounts, product ratings, and payment methods) that drive consumer decisions and repeat purchases.
