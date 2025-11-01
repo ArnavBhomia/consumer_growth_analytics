@@ -8,12 +8,6 @@ This project demonstrates a full analytical workflow, from initial data engineer
 
 The final interactive dashboard provides a high-level overview of key performance indicators (KPIs) and allows for deep-dive analysis using interactive slicers for Subscription Status, Gender, Category, and Shipping Type.
 
-**Note:** To display your dashboard screenshot here, please:
-
-1. Rename your dashboard screenshot file (e.g., image\_9aca12.png) to dashboard\_preview.png.  
-2. Upload dashboard\_preview.png to the main directory of this GitHub repository.  
-3. The image will then appear below.
-
 ## **🎯 Business Problem & Objectives**
 
 The primary business challenge was to understand shifting consumer purchasing patterns to maintain a competitive edge. The project aimed to move from *what* was happening to *why* it was happening by identifying the causal factors (like discounts, product ratings, and payment methods) that drive consumer decisions and repeat purchases.
