@@ -4,6 +4,8 @@ This repository contains an end-to-end data analytics project focused on analyzi
 
 This project demonstrates a full analytical workflow, from initial data engineering in Python to advanced database querying in SQL, culminating in an interactive Power BI dashboard.
 
+<img width="1311" height="723" alt="Dashboard" src="https://github.com/user-attachments/assets/02f555fd-054d-44ee-bff7-5a769b776686" />
+
 ## **🎯 Business Problem & Objectives**
 
 The primary business challenge was to understand shifting consumer purchasing patterns to maintain a competitive edge. The project aimed to move from *what* was happening to *why* it was happening by identifying the causal factors (like discounts, product ratings, and payment methods) that drive consumer decisions and repeat purchases.
